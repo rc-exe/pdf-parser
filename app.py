@@ -1,6 +1,6 @@
 import os
 from flask import Flask, request, render_template, send_from_directory
-import fitz  # PyMuPDF
+import pymupdf as fitz
 import shutil
 from PIL import Image
 import pytesseract

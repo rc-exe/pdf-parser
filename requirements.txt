@@ -2,5 +2,5 @@ flask>=2.2.5
 werkzeug>=2.2.2
 pytesseract==0.3.8
 pillow>=10.2.0
---pre pymupdf  # This ensures the pre-built wheel is installed
+pymupdf>=1.23.0 --only-binary :all:  # Force pre-built wheel
 gunicorn==20.1.0
