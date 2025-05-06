@@ -93,5 +93,4 @@ This project is open-source and available under the [MIT License](LICENSE).
 - Folder Structure: Describes the project's directory structure.
 - License: A mention of the open-source license (feel free to adjust based on your choice of license).
 
-You can modify the sections accordingly based on your personal or project-specific details.
 
