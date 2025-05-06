@@ -1,6 +1,3 @@
-Here’s a sample README.md file that you can use for your project:
-
-markdown
  PDF Parser with OCR and Text Extraction
 
 This project allows you to upload a PDF, extract both text and images from it, and apply OCR (Optical Character Recognition) on the images to extract any text. The extracted text and images are made available for download.
